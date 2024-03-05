@@ -18,7 +18,7 @@ navigator.sendBeacon= function() {
   consoleLog("--fx--navigator.sendBeacon--", arguments);
 }
 
-WebSocket= function() {
+WebSocket= function() { 
   
 }
 
